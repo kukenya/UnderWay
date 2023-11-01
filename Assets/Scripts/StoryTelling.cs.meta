@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f33089bd43b4a1441acfc596ca5ac22f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - storyTellingText: {instanceID: 0}
+  - storyCanvas: {fileID: 3455802927584694040, guid: 166a83bc6d7ead0419f218bc537a6096,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
