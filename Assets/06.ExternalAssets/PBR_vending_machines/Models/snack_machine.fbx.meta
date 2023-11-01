@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 35e514764d3e5494fbf9ee225fe3dc07
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3610419213435449024
+    second: Snack_machine|Bank|Take 001|BaseLayer
+  - first:
+      74: -4976267245051690651
+    second: Snack_machine|Coffee|Take 001|BaseLayer
+  - first:
+      74: 152275165980208904
+    second: Snack_machine|Cola|Take 001|BaseLayer
+  - first:
+      74: 8237365088899446150
+    second: Snack_machine|Machine|Take 001|BaseLayer
+  - first:
+      74: 1582756518693747702
+    second: Snack_machine_glass|Bank|Take 001|BaseLayer
+  - first:
+      74: -8291641637487812436
+    second: Snack_machine_glass|Coffee|Take 001|BaseLayer
+  - first:
+      74: 7215749619749786811
+    second: Snack_machine_glass|Cola|Take 001|BaseLayer
+  - first:
+      74: 4996644980459533034
+    second: Snack_machine_glass|Machine|Take 001|BaseLayer
+  - first:
+      74: 8763777326470875378
+    second: bar_01|Bank|Take 001|BaseLayer
+  - first:
+      74: -5438856621888271184
+    second: bar_01|Coffee|Take 001|BaseLayer
+  - first:
+      74: 3786559364223766674
+    second: bar_01|Cola|Take 001|BaseLayer
+  - first:
+      74: 8254032140187987532
+    second: bar_01|Machine|Take 001|BaseLayer
+  - first:
+      74: -8752398825975614177
+    second: bar_02|Bank|Take 001|BaseLayer
+  - first:
+      74: 1911033854454177141
+    second: bar_02|Coffee|Take 001|BaseLayer
+  - first:
+      74: 4529723674589518474
+    second: bar_02|Cola|Take 001|BaseLayer
+  - first:
+      74: 3473285039791022867
+    second: bar_02|Machine|Take 001|BaseLayer
+  - first:
+      74: 7702479122605670195
+    second: bar_03|Bank|Take 001|BaseLayer
+  - first:
+      74: 7778767335101651886
+    second: bar_03|Coffee|Take 001|BaseLayer
+  - first:
+      74: -2687042011549112910
+    second: bar_03|Cola|Take 001|BaseLayer
+  - first:
+      74: -3500659477339544874
+    second: bar_03|Machine|Take 001|BaseLayer
+  - first:
+      74: -2241773677949046891
+    second: bar_04|Bank|Take 001|BaseLayer
+  - first:
+      74: -2003034814769492941
+    second: bar_04|Coffee|Take 001|BaseLayer
+  - first:
+      74: -7166129821980464098
+    second: bar_04|Cola|Take 001|BaseLayer
+  - first:
+      74: -965076290196577208
+    second: bar_04|Machine|Take 001|BaseLayer
+  - first:
+      74: 7927845694621963758
+    second: pack_01|Bank|Take 001|BaseLayer
+  - first:
+      74: -7434641122909277234
+    second: pack_01|Coffee|Take 001|BaseLayer
+  - first:
+      74: 8588957421057508223
+    second: pack_01|Cola|Take 001|BaseLayer
+  - first:
+      74: -7354165335001026765
+    second: pack_01|Machine|Take 001|BaseLayer
+  - first:
+      74: 6628430324256459833
+    second: pack_02|Bank|Take 001|BaseLayer
+  - first:
+      74: -7919420098601104660
+    second: pack_02|Coffee|Take 001|BaseLayer
+  - first:
+      74: -7332009050267813130
+    second: pack_02|Cola|Take 001|BaseLayer
+  - first:
+      74: -2419848451129940589
+    second: pack_02|Machine|Take 001|BaseLayer
+  - first:
+      74: 4866553252702432122
+    second: pack_03|Bank|Take 001|BaseLayer
+  - first:
+      74: -3327653594366128524
+    second: pack_03|Coffee|Take 001|BaseLayer
+  - first:
+      74: -2489028069118392879
+    second: pack_03|Cola|Take 001|BaseLayer
+  - first:
+      74: 8826954576265168173
+    second: pack_03|Machine|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
